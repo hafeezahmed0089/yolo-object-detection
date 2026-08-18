@@ -70,11 +70,11 @@ Object detection is a fundamental computer vision task essential for autonomous 
 
 ### Webcam Detection
 
-![Webcam Detection](results/web_cam.png)
+![Webcam Detection](Results/web_cam.png)
 
 ### Uploaded Image Detection
 
-![Uploaded Image Detection](results/upload_pictures.png)
+![Uploaded Image Detection](Results/upload_pictures.png)
 
 ## ▶️ How to Run
 
